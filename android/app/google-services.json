@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "879873629966",
+    "project_id": "diabetesprediction-ba331",
+    "storage_bucket": "diabetesprediction-ba331.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879873629966:android:dbaa9426fe31606e6ac15f",
+        "android_client_info": {
+          "package_name": "com.example.diabetes_prediction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879873629966-kd4bm9vekj3hoj6divji8flfve5ftpnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrxNh1uZ3Gp6yQusrC8bAVytOtxYeNbjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879873629966-kd4bm9vekj3hoj6divji8flfve5ftpnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

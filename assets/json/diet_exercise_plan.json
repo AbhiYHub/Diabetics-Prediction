@@ -1,0 +1,162 @@
+{
+  "diet": [
+    {
+      "img": "salad.png",
+      "title": "Leafy Greens",
+      "description": "Green, leafy vegetables are low in calories, while also being nutritious.",
+      "long_description": "Green, leafy vegetables are low in calories, while also being extremely nutritious. Being low in digestible carbs means that they play a major role in controlling blood sugar levels too. \n\nFor example, Spinach, kale, and other leafy greens are rich in several vitamins and minerals like vitamin C. A study showed that increasing vitamin C intake reduces the fasting blood sugar levels for people with type 2 diabetes. Even high blood pressure levels."
+    },
+    {
+      "img": "cinnamon.png",
+      "title": "Cinnamon",
+      "description": "Along with its antioxidant properties, it is also known for controlling diabetes.",
+      "long_description": "Along with its strong antioxidant properties, cinnamon is also known for its ability to control diabetes. According to several controlled studies, cinnamon can help reduce blood sugar levels and improve insulin sensitivity as well. \n\nHowever, you must consider limiting your intake of cassia cinnamon to less than a single teaspoon a day. Because of the presence of coumarin in this type of cinnamon it can cause health problems if taken in higher doses. On the other hand, Ceylon cinnamon does not contain much coumarin."
+    },
+    {
+      "img": "fish.png",
+      "title": "Fatty Fish",
+      "description": "A diabetic person can include salmon, sardines, and mackerel in their diets.",
+      "long_description": "A diabetic person can include salmon, sardines, and mackerel in their diets. These fatty fishes are great sources of DHA and EPA, which are omega-3 fatty acids with major heart health benefits. \n\nImproving the intake of these fats could particularly benefit diabetics who are at a higher risk of heart disease. \n\nDHA and EPA help reduce inflammation markers. It also improves the way the arteries function after having meals and protects the cell lining of the blood vessels. There have been evidence based studies to prove the above point."
+    },
+    {
+      "img": "chia.png",
+      "title": "Chia Seeds",
+      "description": "Chia seeds are extremely rich in fiber, yet contain less digestible carbs.",
+      "long_description": "Chia seeds are extremely rich in fiber, yet contain less digestible carbs. In respect to that, the viscous fiber found in these seeds lowers blood sugar levels. It does that by slowing down the rate at which food is moving through the gut and getting absorbed. \n\nAdditionally, the fiber present in chia seeds also helps one feel full, and in the process, prevents overeating and unnecessary weight gain. Chia seeds are also great to reduce blood pressure and inflammatory markers."
+    },
+    {
+      "img": "yogurt.png",
+      "title": "Greek Yogurt",
+      "description": "Greek yogurt control sugar levels and reduce the risk of heart diseases.",
+      "long_description": "Greek yogurt is a great dairy option for diabetics, because of its ability to control blood sugar levels and reduce the risk of heart disease. This is partly due to the presence of probiotics in them. \n\nStudies have also found that yogurt and other dairy products can result in weight loss and better body composition among people with type 2 diabetes. Since, Greek yogurt contains fewer carbs than conventional yogurt, it can be a great alternative to meats. \n\nAlso, its high protein content promotes weight loss by helping one avoid unwanted binging and balancing the carb intake. So, add Greek yogurt to your diabetic diet for all the health benefits."
+    },
+    {
+      "img": "flax-seed.png",
+      "title": "Flaxseeds",
+      "description": "Flaxseeds reduces heart disease risk and improves blood sugar control.",
+      "long_description": "Flaxseeds also known as Alsi in India contain insoluble fiber made up of lignans. It  reduces heart disease risk and improves blood sugar control. \n\nA study showed that people with type 2 diabetes that consumed flaxseed lignans for 12 weeks experienced a major improvement in hemoglobin A1c. \n\nSimilarly, another study suggested that a higher intake of flaxseed can lower the risk of strokes. Their high viscous fiber content helps improve various things for example gut health, insulin sensitivity, and the feeling of fullness in the body."
+    },
+    {
+      "img": "nuts.png",
+      "title": "Nuts",
+      "description": "All nuts contain fiber, and are low in digestible fiber, that varies in levels.",
+      "long_description": "As we all know, all nuts contain fiber, and are low in digestible fiber, although that varies in levels. Research on various types of nuts has shown that their consumption can reduce inflammation, and lower HbA1c. It can also lower blood sugar, and LDL levels in the body. Thus, great for including in a diabetic diet plan. \n\nRecently, a study showed that people with diabetes who included 30 g of walnuts in their daily diet for a whole year lost weight. Even saw improvements in their body composition, and significantly lowered their insulin levels."
+    },
+    {
+      "img": "apple-cider-vinegar.png",
+      "title": "Apple Cider Vinegar",
+      "description": "The sugar content is fermented into acetic acid, hence it contains few carbs.",
+      "long_description": "Although it’s made from apples, the sugar content in the fruit is fermented into acetic acid, with the resulting product containing very few carbs. \n\nFurther to this apple cider vinegar tends to improve insulin sensitivity and lower fasting blood sugar levels. It also has the ability to reduce blood sugar levels by 20% when consumed with meals having carbs. Additionally, a study showed that people with poorly controlled diabetes saw a 6% reduction in fasting blood sugar levels when given two tablespoons of apple cider vinegar before sleeping."
+    },
+    {
+      "img": "garlic.png",
+      "title": "Garlic",
+      "description": "It can reduce inflammation, blood sugar in people that have type 2 diabetes.",
+      "long_description": "Garlic is known to have some impressive health benefits. Some studies have shown that it can reduce inflammation, blood sugar, and LDL levels in people that have type 2 diabetes. Truly it can also be very effective in reducing blood pressure levels in the body. In addition to that, garlic is also low in calories and likewise a single clove contains only 4 calories. "
+    },
+    {
+      "img": "strawberry.png",
+      "title": "Strawberry",
+      "description": "Anthocyanins antioxidants reduces insulin and cholesterol right after a meal.",
+      "long_description": "Strawberries are specifically rich in anthocyanins, the antioxidants that give them their red color. These antioxidants have been shown to reduce insulin and cholesterol levels right after a meal. They also reduce the risk of increased blood sugar levels and heart diseases in type 2 diabetes patients. \n\nFor instance, a single cup of strawberries contains 49 calories and only 11 grams of carbs, 3 of which are fiber. This serving also ensures that one gets more than 100% of their required daily intake of vitamin C, thus providing additional anti-inflammatory benefits for heart health."
+    }
+  ],
+
+  "timetable": [
+    {
+      "time": "06:30 AM",
+      "meal":"Methi seeds – 2 tsp (soaked) \n\nWater – 1 glass"
+    },
+    {
+      "time": "08:30 AM",
+      "meal":"Millet Vegetable Cheela/Dosa – 2 \n\nGreen chutney – 1 tsp"
+    },
+    {
+      "time": "11:00 AM",
+      "meal":"Buttermilk – 1 glass \n\nApple – 1"
+    },
+    {
+      "time": "01:30 PM",
+      "meal":"Mixed Vegetable Salad – 1 cup \n\nMultigrain chapati – 2"
+    },
+    {
+      "time": "04:30 PM",
+      "meal":"Lemon green tea without sugar/honey – 1 cup \n\nRoasted Chana – 0.25 cup "
+    },
+    {
+      "time": "07:30 PM",
+      "meal":"Sprouts salad – 1 katori"
+    },
+    {
+      "time": "08:30 PM",
+      "meal":"Mixed vegetable Daliya – 1 cup \n\nMint curd chutney – 2 tsp"
+    },
+    {
+      "time": "10:00 PM",
+      "meal":"Milk without Sugar – 1/2 cup"
+    }
+  ],
+
+  "exercise": [
+    {
+      "img": "walking.png",
+      "title": "Walking",
+      "description": "You don’t need a gym or expensive exercise equipment to get moving.",
+      "long_description":"You don’t need a gym membership or expensive exercise equipment to get moving. \n\nIf you have a supportive pair of shoes and a safe place to walk, you can start today. In fact, you can meet your recommended minimum target for aerobic fitness by going for a brisk 30-minute walk five days per week. \n\nAccording to a 2021 review, walking can help people with type 2 diabetes lower their blood pressure, HbA1c levels, and body mass index." 
+    },
+    {
+      "img": "cycling.png",
+      "title": "Cycling",
+      "description": "Cycling can help meet your fitness goals while reducing strain on your joints.",
+      "long_description": "Roughly half of people with type 2 diabetesTrusted Source have arthritis. The two conditions have several risk factors in common, including obesity. \n\nDiabetic neuropathy, a condition that occurs when the nerves become damaged, can also cause joint pain in people with type 2 diabetes. \n\nIf you have lower joint pain, consider choosing low impact exercise. Cycling, for example, can help you meet your fitness goals while minimizing strain on your joints."
+    },
+    {
+      "img": "swimming.png",
+      "title": "Swimming",
+      "description": "It give your heart, lungs a workout, while putting little stress on your joints.",
+      "long_description": "Aquatic activities provide another joint-friendly exercise option. For example, swimming, water aerobics, aqua jogging, and other aquatic activities can give your heart, lungs, and muscles a workout, while putting little stress on your joints. \n\nA 2017 reviewTrusted Source found that aquatic exercise can help lower blood sugar levels, much like land based exercise does."
+    },
+    {
+      "img": "teamsport.png",
+      "title": "Team sports",
+      "description": "If you find it hard to motivate yourself to exercise, you can join a sports team.",
+      "long_description": "If you find it hard to motivate yourself to exercise, it might help to join a recreational sports team. The opportunity to socialize with teammates and the commitment you make to them might help you find the motivation you need to show up each week. \n\nMany recreational sports offer a good aerobic workout. Consider trying basketball, soccer, softball, pairs tennis, or ultimate frisbee."
+    },
+    {
+      "img": "aerobics.png",
+      "title": "Aerobic dance",
+      "description": "An aerobic dance or other fitness class may also help you in exercising.",
+      "long_description": "Signing up for an aerobic dance or other fitness class might also help you meet your exercise goals. For instance, Zumba is a fitness program that combines dance and aerobic movements for a fast-paced workout. \n\nA 2015 studyTrusted Source found that women with type 2 diabetes were more motivated to exercise after taking part in Zumba classes for 16 weeks. Participants also improved their aerobic fitness and lost weight."
+    },
+    {
+      "img": "weightlifting.png",
+      "title": "Weightlifting",
+      "description": "Weightlifting and other strengthening activities help build your muscle mass.",
+      "long_description": "Weightlifting and other strengthening activities help build your muscle mass, which can increase the number of calories you burn each day. Strength training may also help improve your blood sugar control, according to the ADA. \n\nIf you want to incorporate weightlifting into your weekly exercise routine, you can use weight machines, free weights, or even heavy household objects, such as canned goods or water bottles.\n\nTo learn how to lift weights safely and effectively, consider joining a weightlifting class or asking a professional fitness trainer for guidance."
+    },
+    {
+      "img": "calisthenics.png",
+      "title": "Calisthenics",
+      "description": "In calisthenics, you use your own bodyweight to strengthen your muscles.",
+      "long_description": "In calisthenics, you use your own bodyweight to strengthen your muscles. Common calisthenic exercises include pushups, pullups, squats, lunges, and abdominal crunches. \n\nWhether you choose to strengthen your muscles with weights, resistance bands, or your own body weight, try to work out every major muscle group in your body. \n\nTo give your body time to recover, experts suggest taking a day off from muscle-strengthening activities between each session of strength training."
+    },
+    {
+      "img": "resistance-band.png",
+      "title": "Resistance band",
+      "description": "You can also perform a wide variety of activities with resistance bands.",
+      "long_description": "Weights aren’t the only tool you can use to strengthen your muscles. You can also perform a wide variety of strengthening activities with resistance bands. \n\nTo learn how to incorporate them into your workouts, speak with a professional trainer, take a resistance band class, or watch a resistance band workout video. \n\nIn addition to increasing your strength, exercising with resistance bands may provide modest benefits to your blood sugar control, according to a 2018 study."
+    },
+    {
+      "img": "pilates.png",
+      "title": "Pilates",
+      "description": "Pilates is designed to improve core strength, coordination, and balance.",
+      "long_description": "Pilates is a popular fitness program that’s designed to improve core strength, coordination, and balance. According to a 2020 study of older adult women with type 2 diabetes, it may also help improve blood sugar control. \n\nConsider signing up for a Pilates class at your local gym or Pilates studio. Many instructional videos and books are also available."
+    },
+    {
+      "img": "yoga.png",
+      "title": "Yoga",
+      "description": "Yoga help people manage their blood sugar, cholesterol levels, and weight.",
+      "long_description": "According to a 2016 review, yoga can help people with type 2 diabetes manage their blood sugar, cholesterol levels, and weight. It might also help lower your blood pressure, improve the quality of your sleep, and boost your mood. \n\nIf you’re interested in trying yoga, sign up for a class at a local studio or gym. A trained professional can help you learn how to move from one pose to another, using the proper posture and breathing technique."
+    }
+  ]
+}
